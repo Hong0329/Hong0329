@@ -1,4 +1,5 @@
-### Hi there 👋
+![Hong0329's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong0329&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhkgkrwkhj)](https://solved.ac/rhkgkrwkhj)
 
 <!--
 **Hong0329/Hong0329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
